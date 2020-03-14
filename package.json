@@ -1,0 +1,23 @@
+{
+  "name": "http_module",
+  "version": "1.0.0",
+  "description": "ECHO is on.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steniojoseph27/HTTP_Module.git"
+  },
+  "author": "SJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steniojoseph27/HTTP_Module/issues"
+  },
+  "homepage": "https://github.com/steniojoseph27/HTTP_Module#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "http": "0.0.0"
+  }
+}
